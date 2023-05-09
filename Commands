@@ -1,1 +1,16 @@
-jjdjj
+IGNORE SQUARE BRACKETS ENCLOSED IN COMMANDS</br>
+1.[ls] - list command will list all folders and files</br>
+eg:</br>
+  [ls desktop]</br>
+       The above command open all files and folders associated with the directory</br> 
+  
+2.[start .] - it will directly open specified file or folder directly in windows operating systemd</br>
+eg:</br>
+  [start /desktop]</br>
+              Above command open desktop directly on the  Monitor screen.</br>
+              
+3.[clear] - it will clear all contents that are present the console</br>
+4.f
+
+
+  

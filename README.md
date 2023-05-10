@@ -1,7 +1,7 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
-<b>ls</b></br>  list command will list all folders and files </br>
+<b>1. ls</b></br>  list command will list all folders and files </br>
 eg:</br>
 
          ls

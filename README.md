@@ -18,7 +18,7 @@ eg:</br>
 
 
   
-<b>2.[start .]</b> - <b>it will directly open specified file or folder directly in windows operating systemd</br>
+<b>2.[start .]</b> - it will directly open specified file or folder directly in windows operating systemd</br>
 eg:</br>
 
   <b>[start /desktop]</b></br>

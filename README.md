@@ -1,7 +1,7 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
-<b>1. ls</b></br>  list command will list all folders and files </br>
+<b>1 ls</b></br>  list command will list all folders and files </br>
 eg:</br>
 
          ls
@@ -14,7 +14,7 @@ eg:</br>
 
 The above  command open all files and folders associated with the current working directory(i.e desktop)
   
-<b>start .</b></br> it will directly open specified file or folder directly on your monitor screen of windows operating system</br>
+<b>2 start .</b></br> it will directly open specified file or folder directly on your monitor screen of windows operating system</br>
 eg:</br>
 
            start /desktop/
@@ -22,12 +22,12 @@ eg:</br>
 Above command open desktop directly on the  Monitor screen.
               
               
-<b>clear</b></br>  it will clear all contents that are present the console</br>
+<b>3. clear</b></br>  it will clear all contents that are present the console</br>
 
          clear
 
 
-<b>pwd</b></br>  Print Working Directory command will print the path of the directory currently we are working on </br>
+<b>4. pwd</b></br>  Print Working Directory command will print the path of the directory currently we are working on </br>
 eg:</br>
     
           pwd
@@ -38,7 +38,7 @@ eg:</br>
 The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command 
                
   
-<b>cd</b></br> Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>
+<b>c5. d</b></br> Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>
     eg:</br>
    Brief introduction of all commands combined:</br>
    

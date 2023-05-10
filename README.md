@@ -47,3 +47,6 @@ output:</br>
      step 4: start . - it will open our current working directory (i.e c/windows) on monitor screen
      
      step 5: ls - it will display all the files and folders that are present in our current working directory path (i.e,  c/windows ))
+     
+     
+ hi

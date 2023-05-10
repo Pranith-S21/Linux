@@ -1,4 +1,3 @@
-<b>IGNORE SQUARE BRACKETS ENCLOSED IN COMMANDS</b></br>
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
@@ -6,10 +5,10 @@
 eg:</br>
 
   <b>ls desktop</b> - This  command open all files and folders associated with the current working directory(i.e desktop)</br> 
-  output:</br>
- 1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
-'5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*</br>
-'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/</br>
+          output:</br>
+         1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
+        '5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*</br>
+        'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/</br>
 
 
   

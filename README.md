@@ -2,7 +2,7 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
-1.[ls] - list command will list all folders and files</b> </br>
+<b>1.[ls]</b> - list command will list all folders and files </br>
 eg:</br>
 
   [ls desktop] - This  command open all files and folders associated with the directory</br> 

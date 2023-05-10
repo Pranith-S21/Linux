@@ -1,5 +1,5 @@
 <b>IGNORE SQUARE BRACKETS ENCLOSED IN COMMANDS</b></br>
-output: it is the result we will get after executing the differnt commands
+<b>output: it is the result we will get after executing the differnt commands<b></br>
 
 
 1.[ls] - list command will list all folders and files </br>

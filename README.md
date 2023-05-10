@@ -4,6 +4,7 @@
 <b>ls</b> - list command will list all folders and files </br>
 eg:</br>
 
+         output:
          ls desktop 
          output:
          1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
@@ -26,13 +27,14 @@ Above command open desktop directly on the  Monitor screen.
 
 
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
-
-
-          eg:
-             pwd
+eg:</br>
+    
+          pwd
           output:
                   /c/users/hp 
-                        The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command 
+                  
+                  
+The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command 
                
   
 <b>cd</b> - Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>

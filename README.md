@@ -1,5 +1,5 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
-https://www.javatpoint.com/linux-tutorial(Refer this tutorial too)
+https://www.javatpoint.com/linux-tutorial (Refer this tutorial too)
 
 <b>1. ls</b></br>  list command will list all folders and files </br>
 eg:</br>

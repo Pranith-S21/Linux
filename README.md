@@ -56,4 +56,4 @@ The above path(i.e, /c/users/hp) is the output or the present/current  working d
      step 5: ls - it will display all the files and folders that are present in our current working directory path (i.e,  c/windows ))
      
      
- hi
+ To be continued..

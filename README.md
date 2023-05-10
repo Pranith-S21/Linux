@@ -33,7 +33,7 @@ output:</br>
   
 <b> 5. [cd]</b> - Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>
     eg:</br>
-   Brief introduction of commands
+   Brief introduction of commands:</br>
      step 1: [ls] (it will list the all files and folders)
      
      step 2:  [pwd] (it give the path of the  directory we are currently working on )

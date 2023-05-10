@@ -16,17 +16,17 @@ eg:</br>
 eg:</br>
 
            start /desktop/
-              Above command open desktop directly on the  Monitor screen.</br>
+           Above command open desktop directly on the  Monitor screen.
               
               
 <b>clear</b> - it will clear all contents that are present the console</br>
 
 
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
-         eg:</br>
+          eg:</br>
           <b>pwd</b> </br>
-         output:</br>
-             /c/users/hp </br>
+          output:</br>
+          /c/users/hp </br>
                         The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command </br>
                
   

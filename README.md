@@ -23,6 +23,8 @@ eg:</br>
 
 
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
+
+
           eg:</br>
           <b>pwd</b> </br>
           output:</br>

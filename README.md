@@ -1,4 +1,4 @@
-<emp>IGNORE SQUARE BRACKETS ENCLOSED IN COMMANDS<emp></br>
+<b>IGNORE SQUARE BRACKETS ENCLOSED IN COMMANDS</b></br>
 output: it is the result we will get after executing the differnt commands
 
 

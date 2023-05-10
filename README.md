@@ -5,15 +5,15 @@
 <b>1.ls</b> - list command will list all folders and files </br>
 eg:</br>
 
-  <b>ls desktop</b> - This  command open all files and folders associated with the directory</br> 
+  <b>ls desktop</b> - This  command open all files and folders associated with the current working directory(i.e desktop)</br> 
   output:</br>
- 1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*
-'5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*
-'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/
+ 1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
+'5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*</br>
+'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/</br>
 
 
   
-<b>start .</b> - it will directly open specified file or folder directly in windows operating systemd</br>
+<b>start .</b> - it will directly open specified file or folder directly in windows operating system</br>
 eg:</br>
 
   <b>start /desktop</b></br>
@@ -23,7 +23,7 @@ eg:</br>
 <b>clear</b> - it will clear all contents that are present the console</br>
 
 
-<b>pwd</b> - print working directory command will print the path of the directory currently we are working on </br>
+<b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
 eg:</br>
  <b>pwd</b> </br>
 output:</br>
@@ -36,14 +36,14 @@ output:</br>
    Brief introduction of commands:</br>
    
    
-     step 1: ls - (it will list the all files and folders)
+     step 1: ls - it will list the all files and folders
      
-     step 2:  pwd - (it give the path of the  directory we are currently working on )
+     step 2:  pwd - it give the path of the  directory we are currently working on 
         output:
               /c/users/hp
               
-     step 3: cd /c/windows-(Here we changed our current working directory (i.e /c/users/hp) to directory we want to work further(i,e /c/windows))
+     step 3: cd /c/windows - Here we changed our current working directory (i.e /c/users/hp) to directory we want to work further(i,e /c/windows)
      
-     step 4: start . - (it will open our current working directory (i.e c/windows) on monitor screen)
+     step 4: start . - it will open our current working directory (i.e c/windows) on monitor screen
      
-     step 5: ls -(it will display all the files and folders that are present in our current working directory path (i.e,  c/windows ))
+     step 5: ls - it will display all the files and folders that are present in our current working directory path (i.e,  c/windows ))

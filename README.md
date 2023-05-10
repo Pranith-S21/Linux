@@ -37,11 +37,11 @@ eg:</br>
                
   
  5. [cd] - Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>
-    eg:
-     step 1: [ls] (it will list the all files and folders)
-     step 2:  [pwd] (it give the path of the  directory we are currently working on )
-        output:
-              /c/users/hp
-     step 3:[cd /c/windows]-(Here we changed our current working directory (i.e /c/users/hp) to directory we want to work further(i,e /c/windows))       
-     step 4:[start .] - (it will open our current working directory (i.e c/windows) on monitor screen)
-     step 5:[ls] -(it will display all the files and folders that are present in our current working directory path (i.e,  c/windows )) 
+    eg:</br>
+     step 1: [ls] (it will list the all files and folders)</br>
+     step 2:  [pwd] (it give the path of the  directory we are currently working on )</br>
+        output:</br>
+              /c/users/hp</br>
+     step 3:[cd /c/windows]-(Here we changed our current working directory (i.e /c/users/hp) to directory we want to work further(i,e /c/windows))</br>       
+     step 4:[start .] - (it will open our current working directory (i.e c/windows) on monitor screen)</br>
+     step 5:[ls] -(it will display all the files and folders that are present in our current working directory path (i.e,  c/windows ))</br> 

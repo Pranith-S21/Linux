@@ -1,11 +1,10 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
-<b>1.ls</b> - list command will list all folders and files </br>
+<b>ls</b> - list command will list all folders and files </br>
 eg:</br>
 
          ls desktop - This  command open all files and folders associated with the current working directory(i.e desktop)
-         
          output:
          1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
         '5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*</br>
@@ -16,7 +15,7 @@ eg:</br>
 <b>start .</b> - it will directly open specified file or folder directly on your monitor screen of windows operating system</br>
 eg:</br>
 
-  <b>start /desktop</b></br>
+           <b>start /desktop</b></br>
               Above command open desktop directly on the  Monitor screen.</br>
               
               

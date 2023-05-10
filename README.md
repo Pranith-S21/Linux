@@ -4,8 +4,9 @@
 <b>1.ls</b> - list command will list all folders and files </br>
 eg:</br>
 
-         <b>ls desktop</b> - This  command open all files and folders associated with the current working directory(i.e desktop)</br> 
-         output:</br>
+         ls desktop - This  command open all files and folders associated with the current working directory(i.e desktop)
+         
+         output:
          1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
         '5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*</br>
         'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/</br>

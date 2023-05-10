@@ -22,6 +22,8 @@ Above command open desktop directly on the  Monitor screen.
               
 <b>clear</b> - it will clear all contents that are present the console</br>
 
+         clear
+
 
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
 

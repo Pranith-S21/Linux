@@ -25,11 +25,11 @@ eg:</br>
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
 
 
-          eg:</br>
-          <b>pwd</b> </br>
-          output:</br>
-          /c/users/hp </br>
-                        The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command </br>
+          eg:
+             pwd
+          output:
+                  /c/users/hp 
+                        The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command 
                
   
 <b>cd</b> - Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>

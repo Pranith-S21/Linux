@@ -15,7 +15,7 @@ eg:</br>
 <b>start .</b> - it will directly open specified file or folder directly on your monitor screen of windows operating system</br>
 eg:</br>
 
-           <b>start /desktop</b></br>
+           start /desktop/
               Above command open desktop directly on the  Monitor screen.</br>
               
               
@@ -23,11 +23,11 @@ eg:</br>
 
 
 <b>pwd</b> - Print Working Directory command will print the path of the directory currently we are working on </br>
-eg:</br>
- <b>pwd</b> </br>
-output:</br>
-    /c/users/hp </br>
-               The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command </br>
+         eg:</br>
+          <b>pwd</b> </br>
+         output:</br>
+             /c/users/hp </br>
+                        The above path(i.e, /c/users/hp) is the output or the present/current  working directory of the pwd command </br>
                
   
 <b>cd</b> - Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>

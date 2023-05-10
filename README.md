@@ -4,6 +4,7 @@
 <b>ls</b> - list command will list all folders and files </br>
 eg:</br>
 
+         ls
          output:
          ls desktop 
          output:

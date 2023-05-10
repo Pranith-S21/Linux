@@ -40,7 +40,7 @@ The above path(i.e, /c/users/hp) is the output or the present/current  working d
   
 <b>cd</b></br> Change Directory  command will change the present/current  working directory to reuired working directory by using required direcotries path</br>
     eg:</br>
-   Brief introduction of commands:</br>
+   Brief introduction of all commands combined:</br>
    
    
      step 1: ls - it will list the all files and folders

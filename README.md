@@ -13,7 +13,7 @@ eg:</br>
 
 
   
-<b>start .</b> - it will directly open specified file or folder directly in windows operating system</br>
+<b>start .</b> - it will directly open specified file or folder directly on your monitor screen of windows operating system</br>
 eg:</br>
 
   <b>start /desktop</b></br>

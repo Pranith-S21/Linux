@@ -16,7 +16,8 @@ eg:</br>
 eg:</br>
 
            start /desktop/
-           Above command open desktop directly on the  Monitor screen.
+           
+Above command open desktop directly on the  Monitor screen.
               
               
 <b>clear</b> - it will clear all contents that are present the console</br>

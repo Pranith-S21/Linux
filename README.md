@@ -37,8 +37,8 @@ output:</br>
      step 1: [ls] (it will list the all files and folders)
      
      step 2:  [pwd] (it give the path of the  directory we are currently working on )
-        output:</br>
-              /c/users/hp</br>
+        output:
+              /c/users/hp
               
      step 3:[cd /c/windows]-(Here we changed our current working directory (i.e /c/users/hp) to directory we want to work further(i,e /c/windows))
      

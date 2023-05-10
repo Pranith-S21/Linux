@@ -2,7 +2,7 @@
 <b>output: it is the result we will get after executing the differnt commands</b></br>
 
 
-<b>1.[ls]</b> - <b>list command will list all folders and files </br>
+<b>1.[ls]</b> - list command will list all folders and files </br>
 eg:</br>
 
   <b>[ls desktop]</b> - This  command open all files and folders associated with the directory</br> 
@@ -10,11 +10,6 @@ eg:</br>
  1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*
 '5th sem project - Shortcut.lnk'*                 MEGAsync.lnk*                          Telegram.lnk*         'pgAdmin 4.lnk'*
 'Assignment 1.pdf'                               'MERCK DOC'/                           'Web development'/      pranith/
- CV_reference.docx                               'MRPL Internship request letter.docx'  'WhatsApp Web.lnk'*     proof/
-'Control Panel.lnk'*                              ONENOTE.lnk*                           Zoom.lnk*             '~$16 Synopsis..doc'
- Discord.lnk*                                    'REVISION 1.0.xlsx'                     code/                 '~$_reference.docx'
-'Escape Room (2017) [YTS.AG]'/                   'Resume Category'/                      desktop.ini           '~$dated resume(2410) alyuto world.docx'
-'Google Meet.lnk'*                               'S Pranith Kumar__Resume.pdf'           epfo.pdf              '~$rchase Executive_EXP_2YRS_RESUME-BHARATH S(U) - Copy.docx'
 
 
   

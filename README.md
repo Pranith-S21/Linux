@@ -4,7 +4,7 @@ https://www.javatpoint.com/linux-tutorial (Refer this tutorial too)
 <b>1. ls</b></br>  list command will list all folders and files </br>
 eg:</br>
 
-         ls
+        <b> ls</b>
          output:
          ls desktop 
          output:

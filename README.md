@@ -5,7 +5,7 @@ https://www.javatpoint.com/linux-tutorial (Refer this tutorial too)
 eg:</br>
 
         ls
-         output:
+         
          ls desktop 
          output:
          1033.MST                                        'Internet Explorer.lnk'*                Startups.xlsx          perl514.dll*</br>
